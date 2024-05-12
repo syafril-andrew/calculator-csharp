@@ -1,0 +1,9 @@
+F:\Jobnation\project\project-calculator\Calculator\Calculator\bin\Release\Calculator.exe.config
+F:\Jobnation\project\project-calculator\Calculator\Calculator\bin\Release\Calculator.exe
+F:\Jobnation\project\project-calculator\Calculator\Calculator\bin\Release\Calculator.pdb
+F:\Jobnation\project\project-calculator\Calculator\Calculator\obj\Release\Calculator.csprojResolveAssemblyReference.cache
+F:\Jobnation\project\project-calculator\Calculator\Calculator\obj\Release\Calculator.Calculator.resources
+F:\Jobnation\project\project-calculator\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+F:\Jobnation\project\project-calculator\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+F:\Jobnation\project\project-calculator\Calculator\Calculator\obj\Release\Calculator.exe
+F:\Jobnation\project\project-calculator\Calculator\Calculator\obj\Release\Calculator.pdb
